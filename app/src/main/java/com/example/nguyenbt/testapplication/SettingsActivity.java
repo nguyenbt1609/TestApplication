@@ -42,6 +42,8 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
         @Override
         public boolean onPreferenceChange(Preference preference, Object value) {
             String stringValue = value.toString();
+            
+            //add a comment, just for test...
 
             if (preference instanceof ListPreference) {
                 // For list preferences, look up the correct display value in
