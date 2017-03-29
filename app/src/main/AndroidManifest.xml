@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.nguyenbt.testapplication">
+    package="com.example.nguyenbt.testapplication"
+	 android:versionCode="172"
+    android:versionName="3.4.0-r2">
 
     <application
         android:allowBackup="true"
